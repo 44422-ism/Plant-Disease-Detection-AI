@@ -5,6 +5,8 @@ This project is a plant-health detection system designed to analyse the conditio
 
 Website link: https://myplantea.weebly.com/
 
+Youtube video link:
+https://youtu.be/7yNRnMS_UL8Enter
 
 🚀 Project Overview
 
