@@ -3,7 +3,11 @@ Using Computer Vision & Google Teachable Machine
 
 This project is a plant-health detection system designed to analyse the condition of money plants using Computer Vision. It enables users to upload a plant image and instantly receive predictions on whether the plant is healthy, stressed, or wilted.
 
-(Note: This is our capstone project assigned to us by CBSE, it's a group project.)
+Project Context
+
+Note: This project was developed as part of our CBSE Class 12 Capstone Project. It was a collaborative group initiative focused on developing an AI-based solution for plant health monitoring.
+
+I served as the team leader and prototype developer, leading the overall project direction and building the machine learning model used for plant health detection. Other team members contributed to research, documentation, and supporting project components.
 
 Website link: https://myplantea.weebly.com/
 
